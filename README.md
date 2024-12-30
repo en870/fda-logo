@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Displaying a Local Image with Dimensions</h1>
-    <img src="https://raw.githubusercontent.com/en870/fda-logo/refs/heads/main/README.md">
+    <img src="https://raw.githubusercontent.com/en870/fda-logo/main/fda-logoのコピー.png">
 </body>
 </html>
