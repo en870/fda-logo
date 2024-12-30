@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Displaying a Local Image with Dimensions</h1>
-    <img src="fda-logoのコピー.png" alt="Example Image" width="600" height="400">
+    <img src="fda-logo/fda-logoのコピー.png" alt="Example Image" width="600" height="400">
 </body>
 </html>
